@@ -1,0 +1,15 @@
+{
+  "n_samples": 999,
+  "class_counts": {
+    "Normal": 336,
+    "Critical": 335,
+    "Warning": 328
+  },
+  "holdout_accuracy_synthetic": 0.996,
+  "feature_importances": {
+    "vibration": 0.3045,
+    "temperature": 0.3484,
+    "current": 0.3471
+  },
+  "note": "Synthetic, rule-labelled data. Not evidence of real-world fault-detection accuracy."
+}
