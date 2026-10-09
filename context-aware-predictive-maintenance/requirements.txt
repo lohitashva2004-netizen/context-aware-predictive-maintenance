@@ -1,3 +1,0 @@
-# Used by Render (and `pip install -r requirements.txt`) to install the
-# analytics package plus the dashboard dependencies.
--e .[dashboard]
